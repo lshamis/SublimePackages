@@ -23,7 +23,7 @@ Example:
 
 Replaces all highlighted regions with the Shell interpretation.
 
-  `pwd: *pwd*` -> `*~/code/project*`
+  `pwd` -> `/home/lshamis/github/SublimePackages`
 
 ## natural_sort
 
